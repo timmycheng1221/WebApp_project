@@ -2,6 +2,7 @@
   "name": "Dark_chess",
   "description": "A Dark Chess Application",
   "launch_path": "/index.html",
+  "fullscreen": "true",
   "icons": {
     "16": "/icons/icon16x16.png",
     "48": "/icons/icon48x48.png",
@@ -22,6 +23,6 @@
   ],
   "developer": {
     "name": "timmy",
-    "url": "https://github.com/timmycheng1221/Lesson-06-WebAPIBasics"
+    "url": "https://github.com/timmycheng1221/WebApp_project"
   }
 }

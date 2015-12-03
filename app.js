@@ -44,7 +44,7 @@
                             p1_point--;
                         }
                         else {
-                            p2_point--
+                            p2_point--;
                         }
                         chess[now_name].style.backgroundImage = "";
                         chess[now_name].style.backgroundColor = "transparent";
