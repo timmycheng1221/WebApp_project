@@ -182,7 +182,9 @@
     function refresh() {
         window.location.reload();
     }
-
+    module.exports.change_turn = change_turn;
+    module.exports.pk = pk;
+    module.exports.move = move;
 })(window);
 
 
